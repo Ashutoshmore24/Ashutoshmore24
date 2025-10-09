@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - [**NotesLab AI**](https://github.com/ashutoshmore24/NotesLab) – Generate smart notes via AI, filters, and custom PDF downloads  
 
