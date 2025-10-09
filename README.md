@@ -1,14 +1,13 @@
-<h1 align="center">Hey there, I'm Ashutosh More 👋</h1>
+<h1 align="center">Hey there, I'm Ashutosh More </h1>
 
 ---
 
-### 💡 About Me
+### About Me
 
-- 🎓 Pursuing Information Engineering  
-- 🌱 Currently learning: Full Stack Development, AI APIs, Firebase, Responsive Design  
-- 🚧 Building: `NotesLab` (AI-powered notes generator),   
-- 📚 Passionate about coding, innovation & impactful projects  
-- 🎯 Goal: Become a top-notch full-stack developer
+- Pursuing Information Engineering  
+- Currently learning: Full Stack Development, AI APIs, Firebase, Responsive Design  
+- Building: `NotesLab` (AI-powered notes generator),   
+- Passionate about coding, innovation & impactful projects  
 
 ---
 
@@ -26,15 +25,15 @@
 
 ### 🚀 Featured Projects
 
-- 🔥 [**NotesLab AI**](https://github.com/ashutoshmore24/NotesLab) – Generate smart notes via AI, filters, and custom PDF downloads  
+- [**NotesLab AI**](https://github.com/ashutoshmore24/NotesLab) – Generate smart notes via AI, filters, and custom PDF downloads  
 
-- 🎬 [**Netflix Clone**](https://github.com/ashutoshmore24/NETFLIX-Prototype) – Fully responsive Netflix UI with cards and navbar
+- [**Netflix Clone**](https://github.com/ashutoshmore24/NETFLIX-Prototype) – Fully responsive Netflix UI with cards and navbar
 
-- 🌐 [**Developer Portfolio**](https://developerwebcv.netlify.app) – My live resume and project showcase site  
+- [**Developer Portfolio**](https://developerwebcv.netlify.app) – The Demo resume and project showcase site  
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AshutoshMore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)  
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-developerwebcv.netlify.app-informational?style=for-the-badge)](https://developerwebcv.netlify.app/)  
@@ -42,8 +41,7 @@
 
 ---
 
-### 💬 Quote I Follow
+### Quote I Follow
 
-> “The best way to predict the future is to invent it.” – Alan Kay
-
+> "You Don't Need To Be Ready,You Just Need To Start !" - Unknown
 ---
