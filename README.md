@@ -18,8 +18,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c++&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -29,7 +30,6 @@
 
 - [**Netflix Clone**](https://github.com/ashutoshmore24/NETFLIX-Prototype) – Fully responsive Netflix UI with cards and navbar
 
-- [**Developer Portfolio**](https://developerwebcv.netlify.app) – The Demo resume and project showcase site  
 
 ---
 
