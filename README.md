@@ -4,8 +4,8 @@
 
 ### About Me
 
-- Pursuing Information Engineering  
-- Currently learning: Full Stack Development, AI APIs, Firebase, Responsive Design  
+- Pursuing B.Tech in Information Engineering  
+- Currently learning: Full Stack Development, AI APIs, Firebase,etc
 - Building: `NotesLab` (AI-powered notes generator),   
 - Passionate about coding, innovation & impactful projects  
 
@@ -36,7 +36,7 @@
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AshutoshMore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOURUSERNAME)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-developerwebcv.netlify.app-informational?style=for-the-badge)](https://developerwebcv.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-developerwebcv.netlify.app-informational?style=for-the-badge)]  
 [![GitHub](https://img.shields.io/badge/GitHub-ashutoshmore24-black?style=for-the-badge&logo=github)](https://github.com/ashutoshmore24)
 
 ---
