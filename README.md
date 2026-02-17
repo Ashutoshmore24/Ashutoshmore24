@@ -5,9 +5,9 @@
 ### About Me
 
 - Pursuing B.Tech in Information Engineering  
-- Currently learning: Full Stack Development, AI APIs, Firebase,etc
-- Building: `NotesLab` (AI-powered notes generator),   
-- Passionate about coding, innovation & impactful projects  
+- Currently learning: Full Stack Development, APIs, Firebase , Computer Networks & OS etc
+- Building: `NotesLab` (Notes Providing Website for F.Y Engg. Students ),   
+- Passionate about Learning , coding,  & impactful projects  
 
 ---
 
@@ -26,9 +26,10 @@
 
 ### Featured Projects
 
+- [**Smart Apartment Maintenance Management System**](https://github.com/Ashutoshmore24/Smart-Apartment-Maintenance-Management-System.git) – A database-driven web application to manage & track maintenance requests efficiently
+- 
 - [**NotesLab AI**](https://github.com/ashutoshmore24/NotesLab) – Generate smart notes via AI, filters, and custom PDF downloads  
 
-- [**Netflix Clone**](https://github.com/ashutoshmore24/NETFLIX-Prototype) – Fully responsive Netflix UI with cards and navbar
 
 
 ---
@@ -46,4 +47,5 @@
 ### Quote I Follow
 
 > "You Don't Need To Be Ready,You Just Need To Start !" - Unknown
+
 ---
