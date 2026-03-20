@@ -6,7 +6,7 @@
 
 - Pursuing B.Tech in Information Engineering  
 - Currently learning: Full Stack Development, Mobile App Development, APIs, Computer Networks & OS etc
-- Building: `NotesLab` (Notes Providing Website for F.Y Engg. Students ),   
+- Building projects and constantly improving the most important one - myself.   
 - Passionate about Learning , coding,  & impactful projects  
 
 ---
