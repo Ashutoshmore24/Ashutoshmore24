@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm Ashutosh More </h1>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0d1117&height=220&section=header&text=Hello%2C%20I%27m%20Ashutosh%20More%20%&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 ### About Me
 
  🎓 Pursuing B.Tech in Information Engineering
@@ -14,33 +12,27 @@
 ### Tech Stack
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python&theme=dark" />
+</p>
 
 ### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
+</p>
+
 
 
 ### App Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+</p>
 
 
 ### Tools 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jupyter&theme=dark" />
+</p>
 
 <hr width="100%" height="10%">
 
@@ -80,4 +72,4 @@
 
 > "You Don't Need To Be Ready,You Just Need To Start !" - Unknown
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:764ba2,100:667eea&height=120&section=footer" width="100%"/>
