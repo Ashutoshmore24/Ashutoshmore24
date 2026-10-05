@@ -116,7 +116,7 @@ I'm constantly working on new ideas, exploring technologies, and turning concept
 ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-more-58b21332">
+  <a href="https://www.linkedin.com/in/ashutosh-more-58b21332b">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
