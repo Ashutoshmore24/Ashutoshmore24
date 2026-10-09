@@ -47,7 +47,6 @@
 
 ---
 
-
 ### Featured Projects
 
 <table>
@@ -65,7 +64,6 @@ A full-stack video conferencing platform with **real-time WebRTC calls**, secure
 🔗 **[View Project →](https://github.com/Ashutoshmore24/MeetFlow)**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### MindVault
@@ -93,23 +91,34 @@ A database-driven web application designed to efficiently **manage, track, and s
 🔗 **[View Project →](https://github.com/Ashutoshmore24/Smart-Apartment-Maintenance-Management-System)**
 
 </td>
+<td width="50%" valign="top">
 
+### Fixify – IT Asset & Maintenance Management System
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark" height="40"/>
+
+A centralized, QR-based web application designed to **streamline laboratory maintenance, track IT assets, manage repair tickets, automate issue escalation, and monitor spare-part inventory**.
+
+🔗 **[View Project →](https://github.com/Ashutoshmore24/Fixify)**
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 💡 More Projects
 
 **Always building & experimenting**
 
-<p>
 I'm constantly working on new ideas, exploring technologies, and turning concepts into practical applications.
-</p>
 
 **[Explore All Repositories →](https://github.com/Ashutoshmore24?tab=repositories)**
 
 </td>
+
 </tr>
 </table>
-
 
 <hr style="height:1px;border:none;background-color:#30363d;">
 
