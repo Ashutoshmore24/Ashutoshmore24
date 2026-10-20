@@ -95,7 +95,7 @@ A database-driven web application designed to efficiently **manage, track, and s
 
 ### Fixify – IT Asset & Maintenance Management System
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,firebase&theme=dark" height="40"/>
 
 A centralized, QR-based web application designed to **streamline laboratory maintenance, track IT assets, manage repair tickets, automate issue escalation, and monitor spare-part inventory**.
 
