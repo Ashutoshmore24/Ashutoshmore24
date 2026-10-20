@@ -19,7 +19,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
 </p>
 
 
